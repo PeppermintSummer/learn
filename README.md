@@ -1,2 +1,2 @@
-# learn
-some demos about java
+# learn java 
+day day up
