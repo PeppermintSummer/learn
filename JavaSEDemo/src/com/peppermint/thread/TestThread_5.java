@@ -1,8 +1,10 @@
 package com.peppermint.thread;
 
 import java.util.Arrays;
+import java.util.stream.Stream;
 
 public class TestThread_5 {
+
     public static void main(String[] args) {
         //someObject在同一时间，只能被一个线程占用,间接的导致同一时间，hp只能被一个线程修改
         final Object someObject=new Object();

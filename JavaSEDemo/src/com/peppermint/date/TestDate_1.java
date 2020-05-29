@@ -16,7 +16,5 @@ public class TestDate_1 {
 
         System.out.println("当前时间\n"+date.toString()+"\n"+date.getTime());
         String str="ab"+"cd";
-
-
     }
 }
