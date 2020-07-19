@@ -17,30 +17,35 @@ import java.io.IOException;
  */
 @Controller
 public class IndexController {
-    public static final Logger logger= LoggerFactory.getLogger(IndexController.class);
+//    public static final Logger logger= LoggerFactory.getLogger(IndexController.class);
+//
+//    @GetMapping("/upload")
+//    public String upload(){
+//        return "upload";
+//    }
+//
+//    @PostMapping("/upload")
+//    @ResponseBody
+//    public String upload(@RequestParam("file") MultipartFile file){
+//        if (file.isEmpty()){
+//            return "上传失败！";
+//        }
+//        String filename = file.getOriginalFilename();
+//        String filepath = "E:\\guyu\\";
+//        File dest = new File(filepath+filename);
+//        try {
+//            file.transferTo(dest);
+//            logger.info("上传成功");
+//            return "上传成功！";
+//        } catch (IOException e) {
+//            logger.info("上传失败！");
+//            e.printStackTrace();
+//        }
+//        return "上传失败！";
+//    }
 
-    @GetMapping("/upload")
-    public String upload(){
-        return "upload";
-    }
-
-    @PostMapping("/upload")
-    @ResponseBody
-    public String upload(@RequestParam("file") MultipartFile file){
-        if (file.isEmpty()){
-            return "上传失败！";
-        }
-        String filename = file.getOriginalFilename();
-        String filepath = "E:\\guyu\\";
-        File dest = new File(filepath+filename);
-        try {
-            file.transferTo(dest);
-            logger.info("上传成功");
-            return "上传成功！";
-        } catch (IOException e) {
-            logger.info("上传失败！");
-            e.printStackTrace();
-        }
-        return "上传失败！";
+    @GetMapping("index")
+    public String toLogin(){
+        return "login";
     }
 }
