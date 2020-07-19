@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef71c342-4889-4042-b834-32a49ea6f76f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/date/TestDate_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/date/TestDate_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestAtomic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestAtomic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSEDemo/com/peppermint/thread/TestThread_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/peppermint/date/TestDate_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/peppermint/date/TestDate_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/peppermint/thread/TestThread_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/peppermint/thread/TestThread_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +79,11 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;h2" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cms-project" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RestServicesNavigator">
     <treeState>
@@ -214,10 +206,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586837936274">
+    <state x="361" y="16" key="#HTTP_Proxy" timestamp="1590914210377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586837936274" />
+    <state x="361" y="16" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1590914210377" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590913959715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590913959715" />
     <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1587384966334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -230,10 +226,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="553" y="302" width="429" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1586668845942" />
-    <state x="543" y="153" key="FileChooserDialogImpl" timestamp="1590726358955">
+    <state x="543" y="153" key="FileChooserDialogImpl" timestamp="1591151086665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590726358955" />
+    <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591151086665" />
     <state width="559" height="672" key="GridCell.Tab.0.bottom" timestamp="1590757355538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,10 +266,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="213" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1587179369340" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1587360436368">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1590914217259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587360436368" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590914217259" />
     <state x="523" y="166" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1586784050176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -294,10 +290,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="154" y="133" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590726445620" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590756709937">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590758699522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590756709937" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590758699522" />
     <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586664429422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
