@@ -36,7 +36,7 @@
             <span th:if="${file.isImg}!='是'" th:text="${file.isImg}"></span>
         </td>
         <td><span th:text="${file.downcounts}"></span></td>
-        <td><span th:text="${file.uploadTime}"></span></td>
+        <td><span th:text="${#dates.format(file.uploadTime,'yyyy-MM-dd HH:mm:ss')}"></span></td>
         <td>
             <a th:href="@{/file/download(id=${file.id})}">下载</a>
             <a th:href="@{/file/delete(id=${file.id})}">删除</a>

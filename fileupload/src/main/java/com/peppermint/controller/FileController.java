@@ -96,7 +96,8 @@ public class FileController {
         aaa.transferTo(new File(dateDir,newFileName));
         //文件信息放入数据库
         UserFile userFile = new UserFile();
-        userFile.setOldFileName(oldFileName).setNewFileName(newFileName)
+        userFile.setOldFileName(oldFileName)
+                .setNewFileName(newFileName)
                 .setExt(extension)
                 .setSize(String.valueOf(size))
                 .setType(type)
